@@ -1,4 +1,4 @@
-## <div align="center">I'm V H, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
+## <div align="center">I'm V H, mainly a Discord Bot Developer! Working since 2018 on Bots 🚀</div>  
 
   
 
@@ -37,4 +37,32 @@
 # Credits
 
 > If consider using this Bot, make sure to credit me!
+
+**JOIN OUR SERVER FOR BEST BOT CODES FOR FREE AND SA-MP PRODUCTS FOR FREE**
+
+https://discord.gg/xXkDRH44Ha
+
+**DON'T SHARE THIS SCRIPT WITHOUT CREDITS AND MAKE YT VIDEO ALSO IF YOU YOU MAKE IT WILL LEAD TO COPYRIGHT MY TEAM WILL MAX TRY TO MAKE THAT CHANNEL DOWN**
+
+
+
+-----------------------------------------
+
+  * **INFO**
+
+  * **SCRIPT MADE BY V H#5111** | https://github.com/VH5111
+
+  * **INFO**
+
+  * **Work for DEVELOPER'S CAFE | https://discord.gg/xXkDRH44Ha**
+
+  * **INFO**
+
+  * **Please mention Him / DEVELOPER'S CAFE, when using this Code!**
+
+  * **INFO**
+
+-----------------------------------------
+
+
 
