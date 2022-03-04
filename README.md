@@ -42,7 +42,7 @@
 
 https://discord.gg/xXkDRH44Ha
 
-**DON'T SHARE THIS SCRIPT WITHOUT CREDITS AND MAKE YT VIDEO ALSO IF YOU YOU MAKE IT WILL LEAD TO COPYRIGHT MY TEAM WILL MAX TRY TO MAKE THAT CHANNEL DOWN**
+**DON'T SHARE ANY SCRIPT WITHOUT CREDITS AND MAKE YT VIDEO ALSO IF YOU YOU MAKE IT WILL LEAD TO COPYRIGHT MY TEAM WILL MAX TRY TO MAKE THAT CHANNEL DOWN**
 
 
 
@@ -50,15 +50,11 @@ https://discord.gg/xXkDRH44Ha
 
   * **INFO**
 
-  * **SCRIPT MADE BY V H#5111** | https://github.com/VH5111
-
-  * **INFO**
-
   * **Work for DEVELOPER'S CAFE | https://discord.gg/xXkDRH44Ha**
 
   * **INFO**
 
-  * **Please mention Him / DEVELOPER'S CAFE, when using this Code!**
+  * **Please mention Him / DEVELOPER'S CAFE, when using Any Our Code!**
 
   * **INFO**
 
