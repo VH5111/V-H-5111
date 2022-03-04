@@ -1,9 +1,3 @@
-<div align="center" style"border-radius:15px">
-
-  <img src="https://media.discordapp.net/attachments/856229584880795698/924278519830282270/1639379110732.png?size=4096" style"width: 100%;border-radius:15px">
-
-</div>
-
 ## <div align="center">I'm V H, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
 
   
