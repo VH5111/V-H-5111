@@ -23,7 +23,7 @@ While I primarily develop these projects, community feedback and suggestions are
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://dsc.gg/dcafe) file for details.
 
 ## Credits
 
